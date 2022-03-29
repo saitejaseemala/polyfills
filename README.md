@@ -6,7 +6,7 @@ In this repo you can find polyfills for:
 
 3. Bind
 
-4. Array Method
+4. Array Methods
 
 5. Promise.all
 
