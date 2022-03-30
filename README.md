@@ -8,7 +8,7 @@ In this repo you can find polyfills for:
 
 4. Array Methods
 
-5. Promise.all
+5. Promise and its methods
 
 You can clone this repository and test locally.
 
